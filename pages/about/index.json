@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "l-tab-bar": "/dist/tab-bar/index"
+  }
+}
